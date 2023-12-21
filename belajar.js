@@ -7,8 +7,8 @@ let alamat = "lampung selatan";
 console.log(alamat);
 
 console.log("asd asd");
-console.log("cat");
-console.log("dog");
+console.log("cat menijijikan");
+console.log("dog anjing");
 console.log(sabtu);
 
 // PT BARU INIT REPOSITORY BARU
