@@ -11,11 +11,20 @@ console.log("cat catcat");
 console.log("dog dogdog");
 console.log(sabtu);
 
+// PT BARU INIT REPOSITORY BARU
+// git init
+// git remote add origin https://github.com/LefrianDinata/latihan
 
+// PUSH
 // git add .
 // git commit -m "isi pesan"
 // git push -u origin master
 
-// PT Baru : 
-// git init
-// git remote add origin https://github.com/LefrianDinata/latihan
+//PULL
+// git pull origin master
+
+// conflict ("ngebenerin perubahan yang sama")
+//
+
+
+
