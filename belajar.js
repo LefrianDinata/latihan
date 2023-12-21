@@ -15,3 +15,7 @@ console.log(sabtu);
 // git add .
 // git commit -m "isi pesan"
 // git push -u origin master
+
+// PT Baru : 
+// git init
+// git remote add origin https://github.com/LefrianDinata/latihan
