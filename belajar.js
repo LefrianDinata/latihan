@@ -7,6 +7,8 @@ let alamat = "lampung selatan";
 console.log(alamat);
 
 console.log("asd asd");
+console.log("cat");
+console.log("dog");
 
 
 // git add .
